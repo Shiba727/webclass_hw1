@@ -1,0 +1,18 @@
+
+<!DOCTYPE html>
+<html>
+<body>
+<h2>Homepage</h2>
+<p>Hi. Not Hello Word. I'm Janice.</p>
+<a href="file:///C:/Users/user/Desktop/link.html">This is a link to linkB</a>
+<br>
+
+<a href="file:///C:/Users/user/Desktop/link.html"><strong>Introduction</strong></a>
+<a href="file:///C:/Users/user/Desktop/link.html"><strong>What you wanna say to me</strong></a>
+
+<hr>
+<img src="C:\Users\user\Downloads\chelsea-francis-6095.jpg" alt="file:///C:/Users/user/Desktop/123.html" width="400" height="200">
+
+
+</body>
+</html>
